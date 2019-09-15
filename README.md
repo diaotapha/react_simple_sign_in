@@ -1,2 +1,2 @@
-# react_simple_sign_in
-React Simple Sign In
+# react_native_simple_sign_in
+React Native Simple Sign In
